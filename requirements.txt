@@ -1,0 +1,5 @@
+bqplot==0.12.33
+ipython==8.4.0
+ipywidgets==8.0.1
+numpy==1.23.2
+pandas==1.4.3
